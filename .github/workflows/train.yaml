@@ -10,25 +10,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout main branch
-      uses: actions/checkout@v2
-      with:
-        ref: main
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+        with:
+          ref: main
 
-    - name: Use Node.js 14.x
-      uses: actions/setup-node@v1
-      with:
-        node-version: 14.x
+      - name: Use Node.js 14.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Train model
-      run: npm run start
+      - name: Train model
+        run: npm run start
 
-    - name: Deploy model
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        publish_dir: ./model.json
-        publish_branch: production
+      - name: Push model.json to rfahmi/elsa repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          branch: main-test
+          repository: rfahmi/elsa
+          directory: ./config
+          force: true
+        env:
+          GITHUB_USER_NAME: rfahmi
+          GITHUB_USER_EMAIL: hello@rfahmi.com
+          COMMIT_MESSAGE: "Update model.json"
+          FILE_PATTERN: "./model.json"
