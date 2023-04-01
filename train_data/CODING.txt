@@ -1,0 +1,61 @@
+Bisakah kamu membantu saya menganalisa dan memperbaiki kode ini?
+Saya butuh bantuan untuk membuat kode baru untuk fitur ini.
+Bagaimana cara saya menambahkan fitur baru ke dalam kode yang sudah ada?
+Saya memerlukan bantuan untuk mengidentifikasi kesalahan di kode saya.
+Tolong ajari saya cara memperbaiki kesalahan sintaksis di kode saya.
+Bisakah kamu membantu saya mengembangkan sebuah aplikasi berdasarkan kode ini?
+Bagaimana cara menambahkan dokumentasi ke dalam kode saya?
+Saya ingin membuat kode yang lebih efisien, bisakah kamu membantu saya?
+Bisakah kamu memberikan saran tentang bagaimana menulis kode yang lebih bersih dan mudah dibaca?
+Saya ingin menguji kinerja kode saya, apa yang sebaiknya saya lakukan?
+Bagaimana cara menemukan dan memperbaiki kesalahan logika di dalam kode saya?
+Saya ingin membuat kode saya lebih modular, bisakah kamu membantu saya?
+Tolong jelaskan cara kerja kode ini, saya ingin memahami alur programnya.
+Apa yang harus saya lakukan jika terjadi konflik kode ketika saya mencoba menggabungkan dua branch?
+Bagaimana cara mengelola dependensi di dalam kode saya?
+Saya ingin mengotomatisasi proses build dan deployment kode saya, bisakah kamu membantu saya?
+Tolong jelaskan konsep-konsep dasar dalam pemrograman yang berkaitan dengan kode saya.
+Saya ingin membuat kode saya lebih mudah di-maintain di masa depan, apa yang sebaiknya saya lakukan?
+Bagaimana cara menangani error runtime yang terjadi di kode saya?
+Saya ingin membuat kode saya lebih aman dan terhindar dari serangan hacking, bisakah kamu membantu saya?
+Saya ingin menambahkan fitur baru di dalam kode saya, tetapi saya tidak yakin bagaimana caranya, bisakah kamu membantu saya?
+Bagaimana cara menguji kode saya dengan lebih baik dan efektif?
+Saya ingin memperbaiki performa kode saya, apa yang sebaiknya saya lakukan?
+Bagaimana cara menemukan dan memperbaiki kesalahan pada debugging di dalam kode saya?
+Saya ingin membuat kode saya lebih efektif dan efisien, bisakah kamu memberikan saran?
+Saya ingin mempelajari bahasa pemrograman baru, apa yang sebaiknya saya lakukan?
+Bagaimana cara melakukan debugging kode pada aplikasi berbasis web?
+Saya ingin membuat kode saya lebih mudah di-deploy di lingkungan produksi, bisakah kamu membantu saya?
+Bagaimana cara mengoptimalkan database yang digunakan di dalam kode saya?
+Saya ingin membuat kode saya lebih mudah di-skala, apa yang sebaiknya saya lakukan?
+Bisakah kamu membantuku untuk memperbaiki kesalahan sintaks pada kode programku?
+Bagaimana caranya agar kode program yang ku tulis bisa lebih efisien?
+Bisakah kamu membantu saya untuk men-debug sebuah kode program yang sudah dibuat sebelumnya?
+Apa yang harus saya lakukan jika ada kode program yang tidak bisa dijalankan?
+Bisakah kamu membantuku untuk melakukan analisis kode program yang sudah dibuat oleh orang lain?
+Apa yang perlu saya perhatikan ketika membuat sebuah kode program yang kompleks?
+Bagaimana cara terbaik untuk melakukan refactoring kode program yang sudah ada?
+Bisakah kamu membantuku untuk membuat sebuah kode program dengan performa yang lebih baik?
+Apa yang harus saya lakukan jika kode program yang saya buat tidak menghasilkan output yang diinginkan?
+Bisakah kamu membantuku untuk menemukan kesalahan pada kode program yang sudah ada?
+Bagaimana cara terbaik untuk mengorganisir kode program agar lebih mudah dipahami?
+Apa yang perlu saya lakukan jika ada masalah dengan integrasi kode program ke sistem yang sudah ada?
+Bisakah kamu membantuku untuk memperbaiki performa sebuah kode program?
+Bagaimana cara terbaik untuk melakukan pengujian pada kode program yang sudah dibuat?
+Apa yang perlu diperhatikan ketika menulis sebuah kode program yang harus dijalankan di beberapa platform?
+Bisakah kamu membantuku untuk membuat sebuah kode program yang bisa dijalankan dengan baik pada beberapa platform?
+Bagaimana cara terbaik untuk menulis komentar pada kode program agar lebih mudah dipahami?
+Apa yang perlu dilakukan untuk memperbaiki kesalahan pada kode program yang memerlukan waktu yang sangat lama untuk dijalankan?
+Bisakah kamu membantuku untuk melakukan optimalisasi kode program yang sudah ada?
+Bagaimana cara terbaik untuk memastikan kode program yang kita buat aman dari serangan hacker?
+Apa yang perlu diperhatikan ketika membuat kode program yang memerlukan interaksi dengan pengguna?
+Bisakah kamu membantuku untuk membuat sebuah kode program yang lebih mudah di-maintain oleh orang lain?
+Bagaimana cara terbaik untuk melakukan pengembangan sebuah kode program yang sudah ada?
+Apa yang perlu dilakukan ketika ada kesalahan pada sebuah kode program namun tidak ada pesan kesalahan yang jelas?
+Bisakah kamu membantuku untuk men-debug sebuah kode program dengan pesan kesalahan yang tidak jelas?
+Bagaimana cara terbaik untuk memastikan kode program yang kita buat bisa dijalankan dengan baik pada lingkungan yang berbeda?
+Apa yang perlu diperhatikan ketika membuat kode program yang memerlukan integrasi dengan API dari sistem lain?
+Bisakah kamu membantuku untuk membuat sebuah kode program yang lebih fleksibel dan bisa diubah dengan mudah?
+Bagaimana cara terbaik untuk melakukan debugging pada kode program yang sudah sangat kompleks?
+Apa yang perlu dilakukan ketika sebuah kode program memerlukan pengaturan resource yang sangat besar?
+Bisakah kamu membantuku untuk melakukan debugging pada kode program dengan resource yang sangat besar?
