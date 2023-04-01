@@ -24,18 +24,31 @@ jobs:
         run: npm install
 
       - name: Train model
-        run: npm run start
+        run: npm run start -- --output-dir=./build
+
+      - name: Create ./config directory in rfahmi/elsa repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          branch: main-test
+          repository: rfahmi/elsa
+          directory: ./config
+          force: true
+        env:
+          GITHUB_USER_NAME: rfahmi
+          GITHUB_USER_EMAIL: rfahmi@github.com
+          COMMIT_MESSAGE: "Create config directory"
 
       - name: Push model.json to rfahmi/elsa repo
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           branch: main-test
-          repository: elsa
+          repository: rfahmi/elsa
           directory: ./config
           force: true
         env:
           GITHUB_USER_NAME: rfahmi
-          GITHUB_USER_EMAIL: hello@rfahmi.com
+          GITHUB_USER_EMAIL: rfahmi@github.com
           COMMIT_MESSAGE: "Update model.json"
-          FILE_PATTERN: "./model.json"
+          FILE_PATTERN: "./build/model.json"
